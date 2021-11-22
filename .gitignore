@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore test_3.py
+test_3.py
