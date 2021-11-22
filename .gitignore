@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# ignore test_3.py
-test_3.py
+# ignore test_4.py
+test_4.py
